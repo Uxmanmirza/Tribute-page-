@@ -1,5 +1,5 @@
 Body{
-    background-color: #808080;
+    background-color: lightgray;
     text-align: center;
 }
 .mainHeading{
@@ -9,4 +9,7 @@ Body{
 }
 #profilePic{
     border-radius: 50%;
+}
+#allList{
+    text-align: justify;
 }
