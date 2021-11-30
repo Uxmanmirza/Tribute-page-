@@ -1,0 +1,12 @@
+Body{
+    background-color: #808080;
+    text-align: center;
+}
+.mainHeading{
+   
+    padding: -10px 2px 40px 2px;
+    
+}
+#profilePic{
+    border-radius: 50%;
+}
