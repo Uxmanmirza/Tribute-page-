@@ -7,9 +7,9 @@ Body{
     padding: -10px 2px 40px 2px;
     
 }
-#profilePic{
+#image{
     border-radius: 50%;
 }
-#allList{
+#tribute-info{
     text-align: justify;
 }
